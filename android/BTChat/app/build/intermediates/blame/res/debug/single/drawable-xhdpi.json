@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kjb/StudioProjects/BTChat/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/kjb/StudioProjects/BTChat/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kjb/Documents/Arduino/android/BTChat/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/kjb/Documents/Arduino/android/BTChat/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

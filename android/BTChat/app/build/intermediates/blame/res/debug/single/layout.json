@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/kjb/Documents/Arduino/android/BTChat/app/build/intermediates/res/merged/debug/layout/fragment_main_dummy.xml",
+        "source": "/Users/kjb/Documents/Arduino/android/BTChat/app/src/main/res/layout/fragment_main_dummy.xml"
+    },
+    {
+        "merged": "/Users/kjb/StudioProjects/BTChat/app/build/intermediates/res/merged/debug/layout/adapter_device_name.xml",
+        "source": "/Users/kjb/StudioProjects/BTChat/app/src/main/res/layout/adapter_device_name.xml"
+    },
+    {
+        "merged": "/Users/kjb/Documents/Arduino/android/BTChat/app/build/intermediates/res/merged/debug/layout/adapter_device_name.xml",
+        "source": "/Users/kjb/Documents/Arduino/android/BTChat/app/src/main/res/layout/adapter_device_name.xml"
+    },
+    {
+        "merged": "/Users/kjb/StudioProjects/BTChat/app/build/intermediates/res/merged/debug/layout/activity_device_list.xml",
+        "source": "/Users/kjb/StudioProjects/BTChat/app/src/main/res/layout/activity_device_list.xml"
+    },
+    {
+        "merged": "/Users/kjb/StudioProjects/BTChat/app/build/intermediates/res/merged/debug/layout/fragment_main_dummy.xml",
+        "source": "/Users/kjb/StudioProjects/BTChat/app/src/main/res/layout/fragment_main_dummy.xml"
+    },
+    {
+        "merged": "/Users/kjb/StudioProjects/BTChat/app/build/intermediates/res/merged/debug/layout/fragment_settings.xml",
+        "source": "/Users/kjb/StudioProjects/BTChat/app/src/main/res/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/Users/kjb/StudioProjects/BTChat/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/kjb/StudioProjects/BTChat/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/kjb/Documents/Arduino/android/BTChat/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/kjb/Documents/Arduino/android/BTChat/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/kjb/Documents/Arduino/android/BTChat/app/build/intermediates/res/merged/debug/layout/fragment_settings.xml",
+        "source": "/Users/kjb/Documents/Arduino/android/BTChat/app/src/main/res/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/Users/kjb/Documents/Arduino/android/BTChat/app/build/intermediates/res/merged/debug/layout/activity_device_list.xml",
+        "source": "/Users/kjb/Documents/Arduino/android/BTChat/app/src/main/res/layout/activity_device_list.xml"
+    }
+]

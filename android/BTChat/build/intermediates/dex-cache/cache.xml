@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kjb/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/kjb/StudioProjects/BTChat/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_3ea38a1aca8b7b3cb24d1649f77f4434e30544d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kjb/Documents/Arduino/android/BTChat/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/kjb/Documents/Arduino/android/BTChat/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_b5a21ef91a6c73aec2f8215018da12836a170191.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kjb/StudioProjects/BTChat/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/kjb/StudioProjects/BTChat/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_a2048a15aaab6a7065323303608a3d7e92229442.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kjb/Documents/Arduino/android/BTChat/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/kjb/Documents/Arduino/android/BTChat/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_1608faf97816cf1f8220b0f627f3aa08f4eb7547.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kjb/StudioProjects/BTChat/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/kjb/StudioProjects/BTChat/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_92727f780508335003c258ca419da4e8b90438ed.jar" />
+    </item>
+
+</items>

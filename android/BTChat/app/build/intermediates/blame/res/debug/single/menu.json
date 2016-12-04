@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kjb/Documents/Arduino/android/BTChat/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/kjb/Documents/Arduino/android/BTChat/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/kjb/StudioProjects/BTChat/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/kjb/StudioProjects/BTChat/app/src/main/res/menu/main.xml"
+    }
+]

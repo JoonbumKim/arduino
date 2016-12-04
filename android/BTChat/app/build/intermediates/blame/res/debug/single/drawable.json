@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kjb/StudioProjects/BTChat/app/build/intermediates/res/merged/debug/drawable/form_button_selector.xml",
+        "source": "/Users/kjb/StudioProjects/BTChat/app/src/main/res/drawable/form_button_selector.xml"
+    },
+    {
+        "merged": "/Users/kjb/Documents/Arduino/android/BTChat/app/build/intermediates/res/merged/debug/drawable/form_button_selector.xml",
+        "source": "/Users/kjb/Documents/Arduino/android/BTChat/app/src/main/res/drawable/form_button_selector.xml"
+    }
+]
